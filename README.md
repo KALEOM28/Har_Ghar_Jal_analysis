@@ -121,30 +121,19 @@ The distribution of **Village Certification Percentage** across districts was an
 
 # Visualizations
 
-## Top Performing Districts
+## 📊 Visualizations
 
+### Top Performing Districts
 ![Top Districts](Top 10 Districts by 'Har Ghar Jal Performance Score'.png)
 
-## Lowest Performing Districts
-
+### Bottom Performing Districts
 ![Bottom Districts](Bottom 10 Districts by 'Har Ghar Jal Performance Score'.png)
 
-## Village Certification Gap
-
+### Village Gap Analysis
 ![Village Gap](Top 10 Districts by Village Certification Gap.png)
 
-## Implementation Efficiency
-
-![Implementation Efficiency](Top 10 Districts by 'Implementation_Efficiency'.png)
-
-## Correlation Heatmap
-
-![Correlation Heatmap](Correlation Heatmap of Har Ghar Jal Indicators.png)
-
-## Certification Distribution
-
-![Distribution](Distribution of Village Certification Percentage.png)
-
+### Correlation Heatmap
+![Heatmap](Correlation Heatmap of Har Ghar Jal Indicators.png)
 ---
 
 # Output Files
